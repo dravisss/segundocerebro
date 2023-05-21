@@ -5,20 +5,19 @@
 
 # Tensão
 
-
 > [!NOTE] Momento Atual
->  As lideranças do Sicredi enfrentam desafios constantes de inovação e precisam se reinventar para acompanhar as mudanças no mercado. No entanto, foi identificado que elas não possuem um repertório de técnicas colaborativas para tomada de decisão e geração de ideias.
+>  As lideranças do Sicredi enfrentam desafios constantes de inovação e precisam se reinventar para acompanhar as mudanças no mercado. Facilitadores de negócio precisam ajduar os colaboradores nas agências a desenhar estratégias. No entanto, foi identificado que eles não possuem um repertório de técnicas colaborativas para tomada de decisão e geração de ideias.
 
 > [!NOTE] Realidade Desejada
 >  O Sicredi deseja equipar seus colaboradores com ferramentas e metodologias colaborativas que permitam a criação de estratégias efetivas, considerando diversas perspectivas e aproveitando o potencial criativo da organização. Com isso, será possível encontrar soluções mais inovadoras e adaptáveis às forças do mercado em constante mudança.
 
+🔗 Esta tensão está relacionada aos temas [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/Intervenções da liderança\|Intervenções da liderança]], [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/Busca pelo resultado\|Busca pelo resultado]] e [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/Desenvolvimento\|Desenvolvimento]].
 
-
-### Liderança pelo Design - Transformando Negócios com Criatividade e Inovação
+## Liderança pelo Design - Transformando Negócios com Criatividade e Inovação
 
 Este workshop é voltado para facilitadores de negócio e a área comercial para que possam aprender técnicas de design thinking para gerar ideias, desenhar estratégias, desenvolver protótipos e criar espaços colaborativos. Durante o curso, os participantes vão aprender técnicas como:
 
-- Mapa de empatia: técnica que ajuda a entender as necessidades e desejos dos clientes, por meio da criação de um mapa visual com informações sobre o perfil do cliente, suas emoções, comportamentos e motivações.
+- Mapa de empatia: técnica que ajuda a entender as necessidades e desejos dos clientes, por meio da criação de um mapa visual com informações sobre o perfil do cliente, suas necessidades, comportamentos e motivações.
 
 - Brainstorming: técnica utilizada para gerar ideias criativas em grupo. Os participantes são encorajados a expressar livremente todas as ideias que surgirem sem julgamento ou crítica.
 
@@ -30,13 +29,13 @@ Este workshop é voltado para facilitadores de negócio e a área comercial para
 
 - Dotvoting: técnica simples usada para priorizar ideias ou soluções propostas pelo grupo. Cada pessoa recebe um número limitado de pontos (pontinhos) que podem ser distribuídos entre as opções apresentadas. As opções mais votadas são consideradas prioritárias pelo grupo.
 
-###### Objetivos de Aprendizagem
+### Objetivos de Aprendizagem
 - Compreender as etapas do processo criativo;
 - Identificar oportunidades de inovação nos negócios;
 - Desenvolver habilidades em liderança criativa;
 - Aplicar técnicas de design thinking na resolução de problemas complexos.
 
-###### Hipóteses
+### Hipóteses
 
 Se os facilitadores de negócio aprenderem a mapear as necessidades dos associados ,
 então eles serão capazes de entender melhor seus desejos, o que pode levar a soluções mais eficazes nas agências colocando o associado no centro.
