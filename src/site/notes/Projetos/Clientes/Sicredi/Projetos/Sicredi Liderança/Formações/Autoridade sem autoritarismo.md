@@ -10,25 +10,26 @@
 > [!NOTE] Realidade Desejada
 > Os líderes do Sicredi são capazes de liderar suas equipes de forma eficaz dentro de um modelo cultural humanizado e orientado a propósito. Eles compreendem claramente o propósito da organização e são capazes de comunicá-lo de maneira clara para suas equipes, promovendo uma cultura colaborativa e saudável no ambiente de trabalho.
 
-Essa tensão é baseada nas narrativas encontradas nos temas [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/Segurança e Bem Estar\|Segurança e Bem Estar]], [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/Intervenções da liderança\|Intervenções da liderança]], e [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/Escopo e autoridade de papéis\|Escopo e autoridade de papéis]].
+🔗 Essa tensão é baseada nas narrativas encontradas nos temas [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/Segurança e Bem Estar\|Segurança e Bem Estar]], [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/Intervenções da liderança\|Intervenções da liderança]], e [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/Escopo e autoridade de papéis\|Escopo e autoridade de papéis]].
 
-
-#### Autoridade sem autoritarismo - Lidando com nossas atitudes de comando e controle
+## Autoridade sem autoritarismo - Lidando com nossas atitudes de comando e controle
 
 Este workshop é voltado para pessoas que trabalham numa organização em transição para a autogestão, mas ainda se veem tendo atitudes autoritárias. O objetivo é oferecer um espaço de escuta e crescimento pessoal para essas pessoas, ajudando-as a perceber padrões de autoritarismo e como lidar com eles. Através da reflexão sobre suas próprias experiências, os participantes serão capazes de desenvolver habilidades para lidar com situações desafiadoras no ambiente de trabalho.
 
-###### Objetivos de aprendizagem
+### Objetivos de aprendizagem
 - Identificar comportamentos autoritários em si mesmos
 - Compreender possíveis causas subjacentes desses comportamentos
 - Desenvolver estratégias para lidar com o autoritarismo no ambiente de trabalho de forma mais eficaz e colaborativa
 - Praticar técnicas eficazes para promover uma cultura mais colaborativa na organização
 
-###### Hipóteses
+### Hipóteses
 Se os participantes refletirem sobre suas próprias experiências passadas, então eles serão capazes de identificar padrões recorrentes do seu comportamento autoritário.
 Se os participantes compreenderem as causas subjacentes dos seus comportamentos autoritários, então eles poderão começar a mudá-las.
 Se os participantes praticarem técnicas eficazes durante o workshop, então eles estarão melhor preparados para aplicá-las no ambiente profissional.
 
 ### Outline do Curso
+
+Duração: 5 encontros de 2h.
 
 I. Introdução
 - Apresentação do workshop e dos objetivos de aprendizagem
