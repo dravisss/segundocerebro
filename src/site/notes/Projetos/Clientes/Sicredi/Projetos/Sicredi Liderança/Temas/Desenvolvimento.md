@@ -16,6 +16,4 @@ Principais pontos levantados:
 - Falta de um momento específico para falar sobre o desenvolvimento pessoal de cada funcionário;
 - Preocupação com a qualidade das propostas de crédito recebidas e a eficiência do departamento de crédito.
 
--<iframe src="https://embed.kumu.io/b20245f784f62e83a7d6fceca53688cb" width="100%" height="600" frameborder="0"></iframe>
-
-
+<iframe src="https://embed.kumu.io/f3c1dc5a0873f60e30b8f542d4c2f0b1" width="100%" height="600" frameborder="0"></iframe>
