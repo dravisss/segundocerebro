@@ -12,4 +12,7 @@ Principais pontos:
 - Falta de participação na estratégia e seleção de novos colaboradores
 - Reunião de FNs é top down
 - Demora na tomada de decisões impacta negativamente na ponta da agência.
+  
+  
+  <iframe src="https://embed.kumu.io/7181b0aa465f806ffc5b06afe9e9d286" width="100%" height="600" frameborder="0"></iframe>
 
