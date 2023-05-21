@@ -14,3 +14,4 @@ Principais pontos:
 - Diferença na quantidade de associados de cada funcionário
 - Falta de foco no associado no centro das campanhas e metas.
 
+<iframe src="https://embed.kumu.io/6c30c8cb7af70ac988b61d42d8123f2d" width="100%" height="600" frameborder="0"></iframe>
