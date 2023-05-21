@@ -15,3 +15,4 @@ Principais pontos:
 - Falta de clareza na circulação de informações
 - Figura do guardião ainda carrega uma conotação de poder, gerando uma cultura de medo.
 
+<iframe src="https://embed.kumu.io/e35a374eea6f45164ef1532e48fbbf53" width="100%" height="600" frameborder="0"></iframe>
