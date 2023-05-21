@@ -14,3 +14,4 @@ Principais pontos levantados:
 - Os colaboradores mais antigos têm dificuldade em lidar com a mudança e muitas vezes colocam outras prioridades na frente.
 
 
+<iframe src="https://embed.kumu.io/154423caad9aa1417fc8c264d8cbe960" width="100%" height="600" frameborder="0"></iframe>
