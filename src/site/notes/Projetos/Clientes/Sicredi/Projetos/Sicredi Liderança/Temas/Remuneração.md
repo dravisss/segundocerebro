@@ -9,7 +9,7 @@ As narrativas deste tema falam sobre a questão da remuneração e a falta de um
 Principais pontos levantados:
 - Questionamento dos colaboradores sobre remuneração
 - Norma anterior ruim
-- Colaboradores  querem 5 PDDs, mas só é possível chegar a 3
+- Colaboradores  querem 5 PPRs, mas só é possível chegar a 3
 - Falta de política de remuneração definida gera dúvidas e assédio de mercado
 - Incertezas para os colaboradores 
 - Falta de política de remuneração definida faz com que as pessoas não saibam como crescer na cooperativa.
