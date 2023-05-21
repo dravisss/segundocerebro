@@ -12,3 +12,4 @@ Principais pontos levantados:
 - Percepção de divisão na diretoria entre auto gestão e resultado
 - Necessidade de maior colaboração e simbiose entre os setores.
 
+<iframe src="https://embed.kumu.io/185807d913d7384da64796c827260a33" width="100%" height="600" frameborder="0"></iframe>
