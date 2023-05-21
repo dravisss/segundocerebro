@@ -12,3 +12,5 @@ Principais pontos levantados:
 - Falta de investimento em tecnologia e ferramentas eficientes;
 - Sobrecarga de trabalho operacional impedindo a dedicação a projetos estratégicos;
 - Falta de um sistema único para acessar a conta do associado e fazer todas as demandas necessárias.
+
+<iframe src="https://embed.kumu.io/f268ead8b3fb19db23866cba9ebd0c9e" width="100%" height="600" frameborder="0"></iframe>
