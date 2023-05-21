@@ -13,4 +13,5 @@ Principais pontos levantados:
 - Autogestão é um desafio para muitos colaboradores
 - Comunicação entre as áreas é um ponto de conflito
 - Busca por equilibrar resultados e gestão humanizada.
-
+  
+  <iframe src="https://embed.kumu.io/d9faf8d0f3e47f3ea406f06c470b7f20" width="100%" height="600" frameborder="0"></iframe>
