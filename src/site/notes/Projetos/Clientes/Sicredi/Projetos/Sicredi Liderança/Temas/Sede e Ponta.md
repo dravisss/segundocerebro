@@ -13,4 +13,4 @@ Principais pontos levantados:
 - Dificuldades para preencher informações necessárias para análises de concessão de crédito
 - Colaboradores se sentem desvalorizados.
 
-<iframe src="https://kumu.io/dravis/scrd-lid#mapa?focus=%23elem-TnOvG8QF%20out%201" width="100%" height="700px"></iframe>
+<iframe src="https://embed.kumu.io/c798f612889ac1904e33f331a8f05391" width="100%" height="600" frameborder="0"></iframe>
