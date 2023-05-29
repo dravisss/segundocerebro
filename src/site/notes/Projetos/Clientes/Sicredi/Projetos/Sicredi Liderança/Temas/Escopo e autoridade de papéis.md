@@ -13,5 +13,5 @@ As narrativas deste tema falam sobre as dúvidas e confusões dos FN (Facilitado
 
 Os FN se sentem perdidos e inseguros sobre o que podem ou não fazer, e muitas vezes acabam entrando em frentes que não são de sua responsabilidade. A falta de instrução e mudanças constantes nas orientações também geram confusão e medo de errar. 
 
-Além disso, há relatos de frustração em relação à demora para identificar colaboradores que não vestem a camisa e afetam a equipe, e a intervenção do FN em responsabilidades que não são suas. Por outro lado, há também a percepção de que o papel do FN é criar um ambiente saudável e seguro para os colaboradores, e de que a organização interna da agência pode ser melhorada com a ajuda do FN. 
+Além disso, há relatos de frustração em relação à demora para atuar em questões das agências que já haviam sido identificadas pelos colaboradores, e a intervenção do FN em responsabilidades que não são suas. Por outro lado, há também a percepção de que o papel do FN é criar um ambiente saudável e seguro para os colaboradores, e de que a organização interna da agência pode ser melhorada com a ajuda do FN. 
 
