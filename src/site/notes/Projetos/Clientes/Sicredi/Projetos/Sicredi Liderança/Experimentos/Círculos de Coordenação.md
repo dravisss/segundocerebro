@@ -22,13 +22,11 @@ O Círculo de Coordenação é um artefato cultural que tem como objetivo integr
 - Se as áreas da organização compartilharem informações e coordenarem seus movimentos, então haverá uma governança e operações mais eficientes e alinhadas.
 
 ### Evidências
-- Quantitativas: número de tensões tratadas nos círculos, redução de erros e retrabalhos, aumento da satisfação dos clientes.
-- Qualitativas: feedback positivo dos colaboradores, conflitos percebidos, aumento da colaboração percebida entre as áreas.
+- **Quantitativas**: número de tensões tratadas nos círculos, redução de erros e retrabalhos, aumento da satisfação dos clientes.
+- **Qualitativas**: feedback positivo dos colaboradores, conflitos percebidos, aumento da colaboração percebida entre as áreas.
 
 ### Próximos passos
 - Definir a periodicidade das reuniões do círculo de coordenação.
 - Definir representantes das áreas
 - Mapear papéis do círculo
-- Monitorar os indicadores quantitativos e qualitativos para avaliar o impacto do círculo de coordenação na organização.
-
 
