@@ -14,7 +14,7 @@
 
 ## Experimento: Ferramenta de Suporte à Burocracia
 
-Descrição: Desenvolver uma ferramenta tecnológica com apoio de inteligência artificial que facilite o processo burocrático de preenchimento de propostas de crédito e outros documentos, permitindo que os funcionários das agências se concentrem mais nas vendas. A ferramenta deve ser desenvolvida em conjunto com as áreas de crédito, administrativa e as agências.
+Desenvolver uma ferramenta tecnológica com apoio de inteligência artificial que facilite o processo burocrático de preenchimento de propostas de crédito e outros documentos, permitindo que os funcionários das agências se concentrem mais nas vendas. A ferramenta deve ser desenvolvida em conjunto com as áreas de crédito, administrativa e as agências.
 
 ### Hipótese
 - Se a ferramenta de suporte à venda for implementada, então haverá uma redução no tempo gasto pelos funcionários das agências no preenchimento de propostas de crédito e outros documentos, permitindo que eles se concentrem mais nas vendas.
