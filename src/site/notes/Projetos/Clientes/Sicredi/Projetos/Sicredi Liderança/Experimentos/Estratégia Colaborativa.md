@@ -8,7 +8,7 @@
 >  A área comercial desenvolve ações de negócio, campanhas e outras iniciativas sem envolver os colaboradores das agências e facilitadores de negócio. Isso tem gerado insatisfação e as campanhas não se conectam com a realidade de cada agência.
 
 > [!NOTE] Realidade Desejada
->  Ter um ritual de desenho de campanhas que envolva a participação dos facilitadores de negócio. Isso fará com que as campanhas sejam mais efetivas e se conectem melhor com a realidade de cada agência.
+>  Ter campanhas que envolvam a participação dos facilitadores de negócio na concepção. Isso fará com que as campanhas sejam mais efetivas e se conectem melhor com a realidade de cada agência.
 
 🔗 Esta tensão está relacionada com os temas [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/Busca pelo resultado\|Busca pelo resultado]], [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/Campanhas\|Campanhas]], [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/Sobrecarga e Priorização\|Sobrecarga e Priorização]] e [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/Tomada de Decisão\|Tomada de Decisão]].
 
