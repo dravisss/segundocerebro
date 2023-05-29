@@ -4,12 +4,11 @@
 
 # Tensão
 
-
 > [!Note] Momento Atual
-> Atualmente, o Sicredi possui um componente de remuneração variável (PPR) que acontece de forma muito espaçada. Isso pode levar os colaboradores a se sentirem desmotivados e sem reconhecimento a curto prazo. 
+> Atualmente, o Sicredi possui um componente de remuneração variável (PPR) que acontece apenas uma vez no ano. Isso pode levar os colaboradores a se sentirem desmotivados e sem reconhecimento a curto prazo. 
 
 > [!Note] Realidade Desejada
-> Que ue o Sicredi tenha meios de remuneração variável de curto prazo para reconhecer e motivar os colaboradores ao longo do tempo. Programas de bônus trimestrais ou semestrais podem ser implementados para recompensar o esforço e o desempenho dos colaboradores. 
+> Que o Sicredi tenha meios de remuneração variável de curto prazo para reconhecer e motivar os colaboradores ao longo do tempo. Programas de bônus trimestrais ou semestrais podem ser implementados para recompensar o esforço e o desempenho dos colaboradores. 
 
 🔗 Esta tensão está relacionada aos temas [[Áreas/Org Design/Remuneração\|Remuneração]] e [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/Segurança e Bem Estar\|Segurança e Bem Estar]]
 
