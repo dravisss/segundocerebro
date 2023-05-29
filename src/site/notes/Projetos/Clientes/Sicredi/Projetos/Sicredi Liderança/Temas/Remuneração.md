@@ -9,5 +9,5 @@
 
 ## Resumo
 
-As narrativas deste tema falam sobre a questão da remuneração e a falta de uma política definida na cooperativa. Vários colaboradores têm questionado o que precisam fazer para ganhar mais e a norma anterior estava ruim.  A falta de uma política de remuneração definida faz com que as pessoas não saibam como crescer na cooperativa. 
+As narrativas deste tema falam sobre a questão da remuneração e a falta de uma política definida na cooperativa. Colaboradores têm questionado o que precisam fazer para ganhar mais e a afirmam norma anterior estava ruim.  A falta de uma política de remuneração definida faz com que as pessoas não saibam como crescer na cooperativa. 
 
