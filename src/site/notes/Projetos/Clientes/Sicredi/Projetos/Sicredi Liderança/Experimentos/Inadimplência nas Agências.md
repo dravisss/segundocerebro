@@ -15,7 +15,7 @@
 ## Experimento: Centralização da Cobrança de Inadimplência
 
 ### Descrição:
-Este experimento tem como objetivo centralizar a cobrança de inadimplência em uma equipe especializada, fora das agências das cooperativas financeiras. A equipe será responsável por lidar com os casos de forma mais eficiente e profissional, permitindo que os gestores de carteira possam focar mais em fazer negócios e menos em lidar com a inadimplência. Além disso, será implementada uma política clara de cobrança e os associados serão informados sobre as consequências da inadimplência.
+Este experimento tem como objetivo centralizar a cobrança de inadimplência em uma equipe especializada, fora das agências. A equipe será responsável por lidar com os casos de forma mais eficiente e profissional, permitindo que os gestores de carteira possam focar mais em fazer negócios e menos em lidar com a inadimplência. Além disso, será implementada uma política clara de cobrança e os associados serão informados sobre as consequências da inadimplência.
 
 ### Hipóteses:
 - Se a cobrança de inadimplência for centralizada em uma equipe especializada, então os gestores de carteira poderão focar mais em fazer negócios e menos em lidar com a inadimplência.
