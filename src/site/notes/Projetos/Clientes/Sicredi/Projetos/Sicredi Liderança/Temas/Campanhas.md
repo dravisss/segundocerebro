@@ -15,3 +15,21 @@ Além disso, eles sentem falta de serem convidados a participar da construção 
 
 Outro ponto levantado é a falta de consideração com a base de clientes de cada funcionário, já que nem todos têm a mesma quantidade de associados e, portanto, não conseguem atingir as mesmas metas. Por fim, alguns funcionários questionam a falta de foco no associado no centro das campanhas e metas da empresa. 
 
+> [!TIP] Diagrama Causal
+> O diagrama apresentado a seguir ilustra diversos elementos que atuam como fatores contribuintes para que algumas das tensões relacionadas ao tema **Campanhas** permaneçam não resolvidas.
+
+![loop](/img/user/Arquivos/Imgs/loop_campanhas.png)
+
+
+### Ciclo das Campanhas
+
+Hoje há uma falta de colaboração efetiva entre a área comercial, os facilitadores de negócio e os colaboradores das agências. Essa falta de coordenação leva a um  aumento no número de campanhas promocionais, o que, por sua vez, resulta em uma  maior carga de trabalho para os colaboradores das agências. 
+
+Com o aumento da carga de trabalho, os colaboradores enfrentam  dificuldades em priorizar atendimentos, visitas e questões operacionais. 
+
+Isso leva a uma  queda na performance das agências e, consequentemente, da cooperativa como um todo. Diante dessa queda na performance, a cooperativa sofre uma  pressão por resultados, o que faz com que ainda mais  ofertas sejam direcionadas aos associados. 
+
+No entanto, esse aumento no número de ofertas acaba  negligenciando as necessidades dos associados, o que resulta numa  queda na satisfação dos associados, o que afeta negativamente a performance da cooperativa. 
+
+Esse ciclo vicioso de reforço perpetua a falta de colaboração entre as áreas e a pressão por resultados, impactando negativamente a satisfação dos associados e a performance da cooperativa.
+
