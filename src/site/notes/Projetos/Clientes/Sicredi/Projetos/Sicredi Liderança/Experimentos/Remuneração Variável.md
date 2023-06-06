@@ -10,7 +10,7 @@
 > [!Note] Realidade Desejada
 > Que o Sicredi tenha meios de remuneração variável de curto prazo para reconhecer e motivar os colaboradores ao longo do tempo. Programas de bônus trimestrais ou semestrais podem ser implementados para recompensar o esforço e o desempenho dos colaboradores. 
 
-🔗 Esta tensão está relacionada aos temas [[Áreas/Org Design/Remuneração\|Remuneração]] e [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/Segurança e Bem Estar\|Segurança e Bem Estar]]
+🔗 Esta tensão está relacionada aos temas [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/Remuneração\|Remuneração]] e [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/Segurança e Bem Estar\|Segurança e Bem Estar]]
 
 ## Experimento: Remuneração Variável de Curto Prazo
 
