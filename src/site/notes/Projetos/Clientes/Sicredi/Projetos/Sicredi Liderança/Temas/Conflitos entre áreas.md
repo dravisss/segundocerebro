@@ -15,5 +15,5 @@ Além disso, há uma percepção de que a diretoria está dividida entre um lado
 > [!TIP] Diagrama Ilustrativo
 > Há uma grande tensão presente entre a área comercial e o GP, o que acaba por afetar toda a cooperativa. Um grupo de pessoas que acaba sendo muito afetado são os facilitadores de negócio, que relatam uma certa confusão sobre como dar feedback aos colaboradores nas agências. 
 
-![[conflito_entre_areas.excalidraw \| 700]]
+![conflitos_entre_areas.png| 600](/img/user/Arquivos/Imgs/conflitos_entre_areas.png)
 
