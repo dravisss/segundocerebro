@@ -45,7 +45,6 @@
         }
         let ids = nodes.map((n) => n.id);
         return {
-            nodes,
             nodes: nodes.filter(n => n.outgoing),
             links: links.filter(function (con) {
                 return con.source === currentNode.id && ids.indexOf(con.target) > -1;

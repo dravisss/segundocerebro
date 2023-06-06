@@ -21,15 +21,15 @@
         </div>
         {%endif%}
     {% endmacro %}
-    
-    <div x-init="isDesktop = (window.innerWidth>=1400) ? true: false;" 
-            x-on:resize.window="isDesktop = (window.innerWidth>=1400) ? true : false;" 
+
+    <div x-init="isDesktop = (window.innerWidth>=1400) ? true: false;"
+            x-on:resize.window="isDesktop = (window.innerWidth>=1400) ? true : false;"
             x-data="{isDesktop: true, showFilesMobile: false}">
 
         <div x-show.important="!isDesktop" style="display: none;">
             {%include "components/filetreeNavbar.njk"%}
         </div>
-        
+
         <div x-show="showFilesMobile && !isDesktop" @click="showFilesMobile = false" style="display:none;" class="fullpage-overlay"></div>
 
       <nav class="filetree-sidebar"  x-show.important="isDesktop || showFilesMobile" style="display: none;">
@@ -37,6 +37,7 @@
             {% include imp %}
         {% endfor %}
          <a href="/" style="text-decoration: none;">
+             <img src="https://www.sicredi.com.br/static/home/assets/header/logo-svg2.svg" alt="Logo da minha empresa" style="height: 30px; max-width: 100%; margin-right: 10px;">
                <h1 style="text-align:center;">{{meta.siteName}}</h1>
          </a>
          {% for imp in dynamics.filetree.afterTitle %}
