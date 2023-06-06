@@ -16,14 +16,13 @@ A autogestão também é um desafio, pois muitos colaboradores não sabem como s
 > [!TIP] Diagrama Causal
 > O diagrama apresentado a seguir ilustra diversos elementos que atuam como fatores contribuintes para que algumas das tensões relacionadas ao tema **Busca pelo Resultado** permaneçam não resolvidas.
 
-![loop](/img/user/Arquivos/Imgs/loop_resultado.png)
-
+![[Pasted image 20230604150827.png \| 600]]
 ### O Ciclo da Pressão por Resultados
 
-A cooperativa passou por uma transformação cultural que introduziu muitas práticas de gestão humanizada (👥). Como resultado, a pressão por metas (🎯) diminuiu. No entanto, com o tempo, a performance (📉) começou a cair, o que trouxe de volta uma certa pressão por metas, embora de uma forma diferente da anterior.
+A cooperativa passou por uma transformação cultural que introduziu muitas práticas de gestão humanizada . Como resultado, a pressão por metas diminuiu. No entanto, com o tempo, a performance começou a cair, o que trouxe de volta uma certa pressão por metas, embora de uma forma diferente da anterior.
 
-Essa pressão renovada por metas gerou uma grande confusão sobre metas e números (🤔) na cooperativa. Esta confusão, por sua vez, levou a conflitos entre diferentes áreas (🚧), incluindo a área de gestão de pessoas e a área comercial, entre os facilitadores de negócio e os colaboradores nas agências, e até mesmo dentro da própria área comercial.
+Essa pressão renovada por metas gerou uma grande confusão sobre metas e números  na cooperativa. Esta confusão, por sua vez, levou a conflitos entre diferentes áreas , incluindo a área de gestão de pessoas e a área comercial, entre os facilitadores de negócio e os colaboradores nas agências, e até mesmo dentro da própria área comercial.
 
-Esses conflitos tiveram um impacto negativo na performance, e quando a performance cai, a pressão por metas tende a aumentar novamente, criando um ciclo vicioso. Além disso, a confusão sobre metas e números afetou a eficácia da comunicação (🗣️) em todo o processo, o que por sua vez diminuiu ainda mais as práticas de gestão humanizada na organização.
+Esses conflitos tiveram um impacto negativo na performance, e quando a performance cai, a pressão por metas tende a aumentar novamente, criando um ciclo vicioso. Além disso, a confusão sobre metas e números afetou a eficácia da comunicação em todo o processo, o que por sua vez diminuiu ainda mais as práticas de gestão humanizada na organização.
 
 Em resumo, a cooperativa está em um loop de reforço, onde a pressão por metas, a confusão sobre metas e números, os conflitos entre áreas e a performance se reforçam mutuamente. 
