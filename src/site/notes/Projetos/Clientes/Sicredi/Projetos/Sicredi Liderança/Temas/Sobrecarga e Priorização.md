@@ -5,7 +5,7 @@
 
 <iframe src="https://embed.kumu.io/f268ead8b3fb19db23866cba9ebd0c9e" width="100%" height="600" frameborder="0"></iframe>
 
-🔗 Este tema está relacionado aos experimentos [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Experimentos/Inadimplência nas Agências\|Inadimplência nas Agências]], [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Experimentos/Estratégia Colaborativa\|Estratégia Colaborativa]], [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Experimentos/Assistente de Burocracia\|Assistente de Burocracia]], [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Experimentos/Círculos de Coordenação\|Círculos de Coordenação]] e [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Experimentos/Política de Campanhas\|Política de Campanhas]].
+🔗 Este tema está relacionado aos experimentos [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Experimentos/Inadimplência nas Agências\|Inadimplência nas Agências]], [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Experimentos/Estratégia Colaborativa\|Estratégia Colaborativa]], [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Experimentos/Assistente de Burocracia\|Assistente de Burocracia]], [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Experimentos/Círculos de Coordenação\|Círculos de Coordenação]], [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Experimentos/Política de Gestão de Projetos\|Política de Gestão de Projetos]] e [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Experimentos/Política de Campanhas\|Política de Campanhas]].
 
 ## Resumo
 
