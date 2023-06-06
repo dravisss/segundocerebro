@@ -45,9 +45,9 @@
         }
         let ids = nodes.map((n) => n.id);
         return {
-            nodes: nodes.filter(n => n.outgoing),
+            nodes,
             links: links.filter(function (con) {
-                return con.source === currentNode.id && ids.indexOf(con.target) > -1;
+                return ids.indexOf(con.target) > -1 && ids.indexOf(con.source) > -1;
             }),
         }
     }

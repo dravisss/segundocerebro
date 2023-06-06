@@ -36,9 +36,10 @@
         {% for imp in dynamics.filetree.beforeTitle %}
             {% include imp %}
         {% endfor %}
-         <a href="/" style="text-decoration: none;">
-             <img src="https://www.sicredi.com.br/static/home/assets/header/logo-svg2.svg" alt="Logo da minha empresa" style="height: 30px; max-width: 100%; margin-right: 10px;">
-               <h1 style="text-align:center;">{{meta.siteName}}</h1>
+        <a href="/" style="text-decoration: none; display: flex; align-items: center;">
+            <img src="https://www.sicredi.com.br/static/home/assets/header/logo-svg2.svg" alt="Logo da minha empresa" style="height: 30px; max-width: 100%; margin-right: 10px;">
+            <h1 style="text-align:center; margin: 0;">{{meta.siteName}}</h1>
+        </a>
          </a>
          {% for imp in dynamics.filetree.afterTitle %}
             {% include imp %}
