@@ -18,7 +18,7 @@ Outro ponto levantado é a falta de consideração com a base de clientes de cad
 > [!TIP] Diagrama Causal
 > O diagrama apresentado a seguir ilustra diversos elementos que atuam como fatores contribuintes para que algumas das tensões relacionadas ao tema **Campanhas** permaneçam não resolvidas.
 
-![loop](/img/user/Arquivos/Imgs/loop_campanhas.png)
+![[loop_campanhas.png \| 600]]
 
 
 ### Ciclo das Campanhas
