@@ -16,7 +16,8 @@ A autogestão também é um desafio, pois muitos colaboradores não sabem como s
 > [!TIP] Diagrama Causal
 > O diagrama apresentado a seguir ilustra diversos elementos que atuam como fatores contribuintes para que algumas das tensões relacionadas ao tema **Busca pelo Resultado** permaneçam não resolvidas.
 
-![loop_resultados.png| 600](/img/user/Arquivos/Imgs/loop_resultados.png)
+![loop resultados | 600 ](https://scrdmapa.netlify.app/img/loop_resultados.png)
+
 ### O Ciclo da Pressão por Resultados
 
 A cooperativa passou por uma transformação cultural que introduziu muitas práticas de gestão humanizada . Como resultado, a pressão por metas diminuiu. No entanto, com o tempo, a performance começou a cair, o que trouxe de volta uma certa pressão por metas, embora de uma forma diferente da anterior.
