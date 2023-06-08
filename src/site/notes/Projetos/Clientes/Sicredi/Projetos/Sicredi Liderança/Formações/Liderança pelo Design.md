@@ -11,7 +11,7 @@
 > [!NOTE] Realidade Desejada
 >  O Sicredi deseja equipar seus colaboradores com ferramentas e metodologias colaborativas que permitam a criação de estratégias efetivas, considerando diversas perspectivas e aproveitando o potencial criativo da organização. Com isso, será possível encontrar soluções mais inovadoras e adaptáveis às forças do mercado em constante mudança.
 
-🔗 Esta tensão está relacionada aos temas [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/Intervenções da liderança\|Intervenções da liderança]], [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/Busca pelo resultado\|Busca pelo resultado]] e [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/Desenvolvimento\|Desenvolvimento]].
+🔗 Esta tensão está relacionada aos temas [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/10. Intervenções da liderança\|10. Intervenções da liderança]], [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/1. Busca pelo resultado\|1. Busca pelo resultado]] e [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/5. Desenvolvimento\|5. Desenvolvimento]].
 
 ## Liderança pelo Design - Transformando Negócios com Criatividade e Inovação
 

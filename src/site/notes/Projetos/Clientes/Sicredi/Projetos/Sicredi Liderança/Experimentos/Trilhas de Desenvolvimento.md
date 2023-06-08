@@ -10,7 +10,7 @@
 > [!Note] Realidade Desejada
 > Que os colaboradores tenham clareza de quais são os critérios utilizados para avaliá-los e tenham um senso de justiça em relação às decisões tomadas. É importante que haja uma política concreta de remuneração, para que os colaboradores se sintam valorizados e motivados a contribuir para o sucesso da empresa. Com essas mudanças, a empresa poderá contar com uma equipe mais engajada e comprometida com os objetivos da organização.
 
-🔗 Esta tensão está relacionada aos temas [[Áreas/Org Design/Remuneração\|Remuneração]] e [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/Tomada de Decisão\|Tomada de Decisão]].
+🔗 Esta tensão está relacionada aos temas [[Áreas/Org Design/Remuneração\|Remuneração]] e [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/7. Tomada de Decisão\|7. Tomada de Decisão]].
 
 ## Experimento: Trilha de Desenvolvimento de Competências
 

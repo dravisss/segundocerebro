@@ -10,7 +10,7 @@
 > [!Note] Realidade Desejada
 > A cooperativa  precisa implementar um processo de resolução de conflitos bem estruturado, com diretrizes claras sobre como os colaboradores devem se comunicar e trabalhar juntos. Uma política de resolução de conflitos pode promover uma cultura de diálogo aberto e respeitoso, melhorando o clima organizacional e aumentando a produtividade e eficiência da cooperativa.
 
-🔗 Esta tensão está relacionada aos temas [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/Conversas Difíceis\|Conversas Difíceis]], [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/Conflitos entre áreas\|Conflitos entre áreas]] e [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/Segurança e Bem Estar\|Segurança e Bem Estar]].
+🔗 Esta tensão está relacionada aos temas [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/11. Conversas Difíceis\|11. Conversas Difíceis]], [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/2. Conflitos entre áreas\|2. Conflitos entre áreas]] e [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/9. Segurança e Bem Estar\|9. Segurança e Bem Estar]].
 
 ## Experimento: Política de Resolução de Conflitos
 

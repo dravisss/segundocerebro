@@ -10,7 +10,7 @@
 > [!Note] Realidade Desejada
 >  Que os colaboradores do Sicredi estejam amparados por  um processo bem definido para que possam se expressar livremente e oferecer feedback construtivo e respeitoso. Com uma política de feedback bem estabelecida, os colaboradores se sentirão mais valorizados e engajados em seu trabalho, contribuindo para o desenvolvimento da empresa como um todo.
 
-🔗 Esta tensão está relacionada aos temas [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/Conflitos entre áreas\|Conflitos entre áreas]], [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/Sede e Ponta\|Sede e Ponta]], [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/Intervenções da liderança\|Intervenções da liderança]], [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/Segurança e Bem Estar\|Segurança e Bem Estar]] e [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/Transição\|Transição]].
+🔗 Esta tensão está relacionada aos temas [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/2. Conflitos entre áreas\|2. Conflitos entre áreas]], [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/3. Sede e Ponta\|3. Sede e Ponta]], [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/10. Intervenções da liderança\|10. Intervenções da liderança]], [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/9. Segurança e Bem Estar\|9. Segurança e Bem Estar]] e [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/12. Transição\|12. Transição]].
 
 ## Experimento: Política de Feedback Estruturado
 
