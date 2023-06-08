@@ -10,9 +10,11 @@
 > [!NOTE] Realidade Desejada
 > Os líderes do Sicredi possuem ferramentas adequadas para identificar problemas comportamentais e desenvolver soluções eficazes que estimulem comportamentos aderentes à cultura e conectados com a performance da organização.
 
-🔗 Esta tensão está relacionada aos temas [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/1. Busca pelo resultado\|1. Busca pelo resultado]] e [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/10. Intervenções da liderança\|10. Intervenções da liderança]]
+🔗 Esta tensão está relacionada aos temas [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/1. Busca pelo resultado\|1. Busca pelo resultado]], [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/8. Campanhas\|8. Campanhas]], [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/12. Transição\|12. Transição]] e [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/10. Intervenções da liderança\|10. Intervenções da liderança]]
 
 ##  Design Cultural - O Poder das Pequenas Mudanças no Ambiente de Trabalho
+
+🔗 Esta formação é um complemento para os experimentos [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Experimentos/Estratégia Colaborativa\|Estratégia Colaborativa]] e [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Experimentos/Círculos de Coordenação\|Círculos de Coordenação]]
 
  Este workshop oferece ferramentas práticas para estimular comportamentos desejados a partir de intervenções estruturais e técnicas da ciência comportamental. Os participantes aprenderão a analisar o comportamento, planejar intervenções e avaliar sua eficácia. Além disso, terão a oportunidade de praticar essas técnicas por meio de exercícios práticos e estudos de caso.
 
