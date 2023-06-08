@@ -9,7 +9,7 @@
 > [!Note] Realidade Desejada
 > Uma política de gestão de projetos padronizada em toda a cooperativa. Essa política deve definir práticas e métodos específicos para lidar com a gestão de projetos, permitindo uma melhor coordenação entre as áreas e visibilidade do que está sendo feito. Com uma política de projetos padronizada, a cooperativa poderá garantir a eficiência e evitar a sobrecarga de trabalho das pessoas envolvidas nos projetos.
 
-🔗 Esta tensão está relacionada aos temas [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/Conflitos entre áreas\|Conflitos entre áreas]], [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/Sobrecarga e Priorização\|Sobrecarga e Priorização]], [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/Sede e Ponta\|Sede e Ponta]], [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/Intervenções da liderança\|Intervenções da liderança]] e [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/Transição\|Transição]]
+🔗 Esta tensão está relacionada aos temas [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/2. Conflitos entre áreas\|2. Conflitos entre áreas]], [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/6. Sobrecarga e Priorização\|6. Sobrecarga e Priorização]], [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/3. Sede e Ponta\|3. Sede e Ponta]], [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/10. Intervenções da liderança\|10. Intervenções da liderança]] e [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/12. Transição\|12. Transição]]
 
 ## Experimento: Política de Gestão de Projetos Padronizada
 
