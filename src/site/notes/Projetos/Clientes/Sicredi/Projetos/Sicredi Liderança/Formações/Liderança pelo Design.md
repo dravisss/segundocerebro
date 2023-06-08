@@ -15,6 +15,8 @@
 
 ## Liderança pelo Design - Transformando Negócios com Criatividade e Inovação
 
+🔗 Este workshop é um complemento para os experimentos [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Experimentos/Estratégia Colaborativa\|Estratégia Colaborativa]] e [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Experimentos/Círculos de Coordenação\|Círculos de Coordenação]]
+
 Este workshop é voltado para facilitadores de negócio e a área comercial para que possam aprender técnicas de design thinking para gerar ideias, desenhar estratégias, desenvolver protótipos e criar espaços colaborativos. Durante o curso, os participantes vão aprender técnicas como:
 
 - Mapa de empatia: técnica que ajuda a entender as necessidades e desejos dos clientes, por meio da criação de um mapa visual com informações sobre o perfil do cliente, suas necessidades, comportamentos e motivações.
