@@ -10,7 +10,7 @@ Os colaboradores não participam dos processos de contratação e demissão, o q
 > [!Note] Realidade Desejada
 Os colaboradores devem participar dos processos de contratação e demissão para que haja uma integração mais eficaz de novos colaboradores e uma saída mais rápida e justa de colaboradores que não atendem às expectativas.
 
-🔗 Esta tensão está relacionada com os temas [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/Remuneração\|Remuneração]], [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/Tomada de Decisão\|Tomada de Decisão]], [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/Desenvolvimento\|Desenvolvimento]] e [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/Intervenções da liderança\|Intervenções da liderança]].
+🔗 Esta tensão está relacionada com os temas [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/13. Remuneração\|13. Remuneração]], [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/7. Tomada de Decisão\|7. Tomada de Decisão]], [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/5. Desenvolvimento\|5. Desenvolvimento]] e [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/10. Intervenções da liderança\|10. Intervenções da liderança]].
 
 ## Experimento: Participação dos colaboradores no processo de contratação e demissão
 
