@@ -14,6 +14,8 @@
 
 ## Autoridade sem autoritarismo - Lidando com nossas atitudes de comando e controle
 
+🔗 Este workshop é um complemento para os experimentos [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Experimentos/Ritual de Feedback\|Ritual de Feedback]], [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Experimentos/Estratégia Colaborativa\|Estratégia Colaborativa]] e. [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Experimentos/Política de Gestão de Projetos\|Política de Gestão de Projetos]]
+
 Este workshop é voltado para pessoas que trabalham numa organização em transição para a autogestão, mas ainda se veem tendo atitudes autoritárias. O objetivo é oferecer um espaço de escuta e crescimento pessoal para essas pessoas, ajudando-as a perceber padrões de autoritarismo e como lidar com eles. Através da reflexão sobre suas próprias experiências, os participantes serão capazes de desenvolver habilidades para lidar com situações desafiadoras no ambiente de trabalho.
 
 ### Objetivos de aprendizagem
