@@ -18,6 +18,8 @@
 
 🔗 Esta formação é complementada pela formação de [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Formações/Feedback Estruturado\|Feedback Estruturado]], [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Formações/Liderança pelo Design\|Liderança pelo Design]] e [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Formações/Autoridade sem autoritarismo\|Autoridade sem autoritarismo]].
 
+🔗 Esta formação é complementada pelos experimentos [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Experimentos/Política de Gestão de Projetos\|Política de Gestão de Projetos]] e [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Experimentos/Ritual de Feedback\|Ritual de Feedback]]
+
 O objetivo deste workshop é oferecer caminhos práticos para as pessoas que são responsáveis pela implementação da estratégia na organização quando eles precisam focar em performance, números, metas e resultados mas também precisam levar em consideração os antipadrões gerados por essa busca excessiva pelos resultados. Eles serão equipados com ferramentas práticas de priorização e um guia passo a passo de como lidar com questões de performance nas agências.
 
 ### Objetivos de Aprendizagem
@@ -50,7 +52,7 @@ IV. Priorização de tarefas e projetos
 - Desenvolvendo habilidades práticas para priorizar tarefas 
   - Técnicas de gestão de tempo eficazes 
   - Como definir prioridades em situações complexas 
-  - Utilizando o modo revisar de forma efetiva
+  - Facilitando a revisão de projetos de forma efetiva
 
 V. Conclusão 
 - Recapitulação dos principais pontos abordados no workshop  
