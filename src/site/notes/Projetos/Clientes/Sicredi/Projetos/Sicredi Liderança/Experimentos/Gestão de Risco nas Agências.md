@@ -10,7 +10,7 @@
 > [!Note] Realidade Desejada
 > A gestão de risco seria feita por pessoas da sede, com o apoio de ferramentas tecnológicas e processos bem definidos. Isso permitiria que a agência se concentrasse em suas atividades principais, sem a necessidade de ter um funcionário dedicado exclusivamente à gestão de risco. Além disso, essa abordagem permitiria que a gestão de risco fosse mais objetiva e imparcial, pois não estaria sujeita a influências internas da agência.
 
-🔗 Esta tensão está relacionado aos temas [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/Intervenções da liderança\|Intervenções da liderança]] e [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/Segurança e Bem Estar\|Segurança e Bem Estar]].
+🔗 Esta tensão está relacionado aos temas [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/10. Intervenções da liderança\|10. Intervenções da liderança]] e [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/9. Segurança e Bem Estar\|9. Segurança e Bem Estar]].
 
 ## Experimento: Gestão de Risco Desacoplada
 
