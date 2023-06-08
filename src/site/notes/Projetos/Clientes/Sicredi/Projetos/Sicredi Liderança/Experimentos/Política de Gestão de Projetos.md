@@ -13,7 +13,8 @@
 
 ## Experimento: Política de Gestão de Projetos Padronizada
 
-🔗 Este experimento funciona melhor se for apoiado por uma formação de [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Formações/Gestão à Vista\|Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Formações/Gestão à Vista]]
+🔗 Este experimento funciona melhor se for apoiado por uma formação de [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Formações/Gestão à Vista\|Gestão à Vista]]
+
 
 ### Descrição
 Este experimento tem como objetivo criar uma política de gestão de projetos padronizada para o Sicredi. A política definirá práticas e métodos específicos para lidar com a gestão de projetos, permitindo uma melhor coordenação entre as áreas e visibilidade do que está sendo feito. 
