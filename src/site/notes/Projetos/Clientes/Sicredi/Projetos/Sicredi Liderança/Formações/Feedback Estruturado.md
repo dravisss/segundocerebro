@@ -10,7 +10,7 @@
 > [!NOTE] Realidade Desejada
 >  Os colaboradores do Sicredi são capazes de oferecer feedbacks construtivos de forma estruturada e clara, promovendo o desenvolvimento individual e a compreensão mútua dentro da organização. 
 
-🔗 Esta tensão está relacionada aos temas [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/Conflitos entre áreas\|Conflitos entre áreas]], [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/Busca pelo resultado\|Busca pelo resultado]], [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/Conversas Difíceis\|Conversas Difíceis]] e [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/Intervenções da liderança\|Intervenções da liderança]].
+🔗 Esta tensão está relacionada aos temas [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/2. Conflitos entre áreas\|2. Conflitos entre áreas]], [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/7. Tomada de Decisão\|7. Tomada de Decisão]],  [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/1. Busca pelo resultado\|1. Busca pelo resultado]], [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/11. Conversas Difíceis\|11. Conversas Difíceis]] e [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/10. Intervenções da liderança\|10. Intervenções da liderança]].
 
 ## Feedback Estruturado - Transformando Críticas em Oportunidades de Crescimento 
 
