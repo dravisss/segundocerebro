@@ -12,7 +12,7 @@
 > [!NOTE] Realidade Desejada
 > Os colaboradores do Sicredi devem ter uma formação sólida para lidar com questões relacionadas à performance e resultados na organização. Eles precisam entender como equilibrar metas/resultados e bem-estar dos colaboradores, identificar antipadrões gerados pela busca excessiva pelos resultados, desenvolver habilidades práticas para priorizar tarefas e aprender técnicas eficazes para lidar com questões relacionadas à performance nas agências. 
 
-🔗 Esta tensão está relacionada aos temas [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/Busca pelo resultado\|Busca pelo resultado]], [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/Transição\|Transição]], [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/Desenvolvimento\|Desenvolvimento]], [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/Segurança e Bem Estar\|Segurança e Bem Estar]] e [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/Intervenções da liderança\|Intervenções da liderança]].
+🔗 Esta tensão está relacionada aos temas [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/1. Busca pelo resultado\|1. Busca pelo resultado]], [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/12. Transição\|12. Transição]], [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/5. Desenvolvimento\|5. Desenvolvimento]], [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/9. Segurança e Bem Estar\|9. Segurança e Bem Estar]] e [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/10. Intervenções da liderança\|10. Intervenções da liderança]].
 
 ## Falando de números -  Cuidando das pessoas sem perder o foco no resultado
 
