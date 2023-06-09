@@ -10,7 +10,7 @@
 > [!Note] Realidade Desejada
 > Que os funcionários das agências tenham o suporte de ferramentas tecnológicas que tornem o processo burocrático mais fácil, permitindo que eles se concentrem mais nas vendas. 
 
-🔗 Esta tensão está relacionada aos temas [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/6. Sobrecarga e Priorização\|6. Sobrecarga e Priorização]] , [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/2. Conflitos entre áreas\|2. Conflitos entre áreas]] e [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/3. Sede e Ponta\|3. Sede e Ponta]].
+🔗 Esta tensão está relacionada aos temas [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/Sobrecarga e Priorização\|Sobrecarga e Priorização]] , [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/Conflitos entre áreas\|Conflitos entre áreas]] e [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/Sede e Ponta\|Sede e Ponta]].
 
 ## Experimento: Ferramenta de Suporte à Burocracia
 
