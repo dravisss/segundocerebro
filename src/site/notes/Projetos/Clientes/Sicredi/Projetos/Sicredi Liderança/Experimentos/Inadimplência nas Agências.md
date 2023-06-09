@@ -10,7 +10,7 @@
 > [!Note] Realidade Desejada
 > Que a cobrança de inadimplência seja centralizada em uma equipe especializada, fora das agências. Dessa forma, os gestores de carteira poderão focar mais em fazer negócios e menos em lidar com a inadimplência. Além disso, é importante que a cooperativa tenha políticas claras de cobrança e que os associados sejam informados sobre as consequências da inadimplência. 
 
-🔗 Esta tensão está relaiconada aos temas [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/1. Busca pelo resultado\|1. Busca pelo resultado]], [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/6. Sobrecarga e Priorização\|6. Sobrecarga e Priorização]] e [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/3. Sede e Ponta\|3. Sede e Ponta]].
+🔗 Esta tensão está relaiconada aos temas [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/ Busca pelo resultado\| Busca pelo resultado]], [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/Sobrecarga e Priorização\|Sobrecarga e Priorização]] e [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/Sede e Ponta\|Sede e Ponta]].
 
 ## Experimento: Centralização da Cobrança de Inadimplência
 
