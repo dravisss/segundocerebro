@@ -10,7 +10,7 @@
 > [!NOTE] Realidade Desejada
 >  Ter campanhas que envolvam a participação dos facilitadores de negócio na concepção. Isso fará com que as campanhas sejam mais efetivas e se conectem melhor com a realidade de cada agência.
 
-🔗 Esta tensão está relacionada com os temas [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/1. Busca pelo resultado\|1. Busca pelo resultado]], [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/8. Campanhas\|8. Campanhas]], [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/6. Sobrecarga e Priorização\|6. Sobrecarga e Priorização]] e [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/7. Tomada de Decisão\|7. Tomada de Decisão]].
+🔗 Esta tensão está relacionada com os temas [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/ Busca pelo resultado\| Busca pelo resultado]], [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/Campanhas\|Campanhas]], [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/Sobrecarga e Priorização\|Sobrecarga e Priorização]] e [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/Tomada de Decisão\|Tomada de Decisão]].
 
 ## Experimento: Ritual de Desenho de Campanhas
 
