@@ -10,7 +10,7 @@
 > [!NOTE] Realidade Desejada
 > Os líderes do Sicredi possuem ferramentas adequadas para identificar problemas comportamentais e desenvolver soluções eficazes que estimulem comportamentos aderentes à cultura e conectados com a performance da organização.
 
-🔗 Esta tensão está relacionada aos temas [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/1. Busca pelo resultado\|1. Busca pelo resultado]], [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/8. Campanhas\|8. Campanhas]], [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/12. Transição\|12. Transição]] e [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/10. Intervenções da liderança\|10. Intervenções da liderança]]
+🔗 Esta tensão está relacionada aos temas [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/ Busca pelo resultado\| Busca pelo resultado]], [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/Campanhas\|Campanhas]], [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/Transição\|Transição]] e [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/Intervenções da liderança\|Intervenções da liderança]]
 
 ##  Design Cultural - O Poder das Pequenas Mudanças no Ambiente de Trabalho
 
