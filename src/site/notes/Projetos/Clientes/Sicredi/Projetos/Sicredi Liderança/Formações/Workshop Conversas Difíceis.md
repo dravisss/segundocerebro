@@ -11,7 +11,7 @@
 > [!NOTE] Realidade Desejada
 >  Que o GP e seus colaboradores tenham um vocabulário amplo e repertório completo de técnicas e metodologias de transformação de conflito. Dessa forma, eles poderão tratar as questões relacionais com o cuidado e a confiança necessária dentro da organização.
 
-🔗 Esta tensão está relacionada aos temas [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/11. Conversas Difíceis\|11. Conversas Difíceis]], [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/2. Conflitos entre áreas\|2. Conflitos entre áreas]], [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/12. Transição\|12. Transição]] e [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/9. Segurança e Bem Estar\|9. Segurança e Bem Estar]].
+🔗 Esta tensão está relacionada aos temas [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/Conversas Difíceis\|Conversas Difíceis]], [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/Conflitos entre áreas\|Conflitos entre áreas]], [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/Transição\|Transição]] e [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/Segurança e Bem Estar\|Segurança e Bem Estar]].
 
 ## Conversas Difíceis - Transformando conflitos na organização
 
