@@ -10,7 +10,7 @@
 > [!Note] Realidade Desejada
 > Que a cooeprativa tenha um círculo de coordenação com representantes das agências, área comercial e crédito, e outro dentro da sede com representantes de todas as áreas. Esses círculos devem compartilhar informações, tomar decisões e resolver questões de forma integrada. Assim, a organização terá uma governança e operações mais eficientes e alinhadas.
 
-🔗 Esta tensão está conectada com os temas [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/3. Sede e Ponta\|3. Sede e Ponta]], [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/6. Sobrecarga e Priorização\|6. Sobrecarga e Priorização]], [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/7. Tomada de Decisão\|7. Tomada de Decisão]] e [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/2. Conflitos entre áreas\|2. Conflitos entre áreas]].
+🔗 Esta tensão está conectada com os temas [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/Sede e Ponta\|Sede e Ponta]], [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/Sobrecarga e Priorização\|Sobrecarga e Priorização]], [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/Tomada de Decisão\|Tomada de Decisão]] e [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/Conflitos entre áreas\|Conflitos entre áreas]].
 
 ## Experimento: Círculo de Coordenação Sicredi
 
