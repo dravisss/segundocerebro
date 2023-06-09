@@ -10,7 +10,7 @@
 > [!Note] Realidade Desejada 
 > É preciso implementar uma política clara e objetiva que descreva o fluxo para criar e lançar campanhas, definindo os papéis envolvidos. A participação dos facilitadores de negócio e representantes das agências trará novas ideias e perspectivas para a criação das campanhas, o que pode ser muito positivo para o sucesso das mesmas. A comunicação entre as áreas envolvidas deve ser clara e alinhada aos objetivos da campanha e às estratégias adotadas.
 
-🔗 Está tensão está relacionada aos temas [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/1. Busca pelo resultado\|1. Busca pelo resultado]], [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/8. Campanhas\|8. Campanhas]], [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/7. Tomada de Decisão\|7. Tomada de Decisão]] e [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/6. Sobrecarga e Priorização\|6. Sobrecarga e Priorização]].
+🔗 Está tensão está relacionada aos temas [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/ Busca pelo resultado\| Busca pelo resultado]], [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/Campanhas\|Campanhas]], [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/Tomada de Decisão\|Tomada de Decisão]] e [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/Sobrecarga e Priorização\|Sobrecarga e Priorização]].
 
 
 ## Experimento: Política de criação de campanhas
