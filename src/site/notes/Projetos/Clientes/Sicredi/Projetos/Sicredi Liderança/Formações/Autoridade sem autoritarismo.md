@@ -10,7 +10,7 @@
 > [!NOTE] Realidade Desejada
 > Os líderes do Sicredi são capazes de liderar suas equipes de forma eficaz dentro de um modelo cultural humanizado e orientado a propósito. Eles compreendem claramente o propósito da organização e são capazes de comunicá-lo de maneira clara para suas equipes, promovendo uma cultura colaborativa e saudável no ambiente de trabalho.
 
-🔗 Essa tensão é baseada nas narrativas encontradas nos temas [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/9. Segurança e Bem Estar\|9. Segurança e Bem Estar]], [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/10. Intervenções da liderança\|10. Intervenções da liderança]], e [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/4. Escopo e autoridade de papéis\|4. Escopo e autoridade de papéis]].
+🔗 Essa tensão é baseada nas narrativas encontradas nos temas [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/Segurança e Bem Estar\|Segurança e Bem Estar]], [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/Intervenções da liderança\|Intervenções da liderança]], e [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Temas/Escopo e autoridade de papéis\|Escopo e autoridade de papéis]].
 
 ## Autoridade sem autoritarismo - Lidando com nossas atitudes de comando e controle
 
