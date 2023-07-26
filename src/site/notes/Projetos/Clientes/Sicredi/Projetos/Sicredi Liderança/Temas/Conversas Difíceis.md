@@ -9,8 +9,8 @@
 🔗 Este tema está ligado aos experimentos [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Experimentos/Política de Gestão de Conflitos\|Política de Gestão de Conflitos]] e [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Experimentos/Ritual de Feedback\|Ritual de Feedback]].
 
 #### Formações Relacionadas a Este Tema
-- [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Formações/Feedback Estruturado\|Feedback Estruturado]]
 - [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Formações/Workshop Conversas Difíceis\|Workshop Conversas Difíceis]]
+- [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Formações/Feedback Estruturado\|Feedback Estruturado]]
 
 { .block-language-dataview}
 
