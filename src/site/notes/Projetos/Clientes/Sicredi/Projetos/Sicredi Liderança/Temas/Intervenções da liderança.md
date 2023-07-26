@@ -10,9 +10,9 @@
 - [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Formações/Autoridade sem autoritarismo\|Autoridade sem autoritarismo]]
 - [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Formações/Design Cultural\|Design Cultural]]
 - [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Formações/Falando de números\|Falando de números]]
-- [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Formações/Feedback Estruturado\|Feedback Estruturado]]
 - [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Formações/Gestão à Vista\|Gestão à Vista]]
 - [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Formações/Liderança pelo Design\|Liderança pelo Design]]
+- [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Formações/Feedback Estruturado\|Feedback Estruturado]]
 
 { .block-language-dataview}
 
