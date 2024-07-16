@@ -14,7 +14,7 @@
 
 ## Experimento: Política de Resolução de Conflitos
 
-🔗 Este experimento é uma intervenção estrutural que pode ser potencializada pelo [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Formações/Workshop Conversas Difíceis\|Workshop Conversas Difíceis]].
+🔗 Este experimento é uma intervenção estrutural que pode ser potencializada pelo [[Projetos/Clientes/Sicredi/Projetos/Mapa Sodexo/Formações/Workshop Conversas Difíceis\|Workshop Conversas Difíceis]].
 
 ### Descrição
 Este experimento tem como objetivo implementar uma política de resolução de conflitos bem estruturada na cooperativa Sicredi. A política incluirá a criação de um grupo de mediação interno, composto por colaboradores treinados para ajudar a resolver conflitos internos, e a contratação de um mediador externo para lidar com conflitos mais complexos. 

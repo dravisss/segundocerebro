@@ -5,7 +5,7 @@
 # Tensão
 
 > [!Note] Momento Atual
-> Atualmente, os colaboradores do Sicredi não possuem uma estrutura específica ou política que determine como o feedback deve acontecer na organização. Isso pode levar a uma falta de comunicação efetiva e à perda de oportunidades valiosas de melhoria. Sem uma cultura de feedback aberta e transparente, os colaboradores podem se sentir desencorajados a se expressarem livremente.
+a> Atualmente, os colaboradores do Sicredi não possuem uma estrutura específica ou política que determine como o feedback deve acontecer na organização. Isso pode levar a uma falta de comunicação efetiva e à perda de oportunidades valiosas de melhoria. Sem uma cultura de feedback aberta e transparente, os colaboradores podem se sentir desencorajados a se expressarem livremente.
 
 > [!Note] Realidade Desejada
 >  Que os colaboradores do Sicredi estejam amparados por  um processo bem definido para que possam se expressar livremente e oferecer feedback construtivo e respeitoso. Com uma política de feedback bem estabelecida, os colaboradores se sentirão mais valorizados e engajados em seu trabalho, contribuindo para o desenvolvimento da empresa como um todo.

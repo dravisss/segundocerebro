@@ -13,7 +13,7 @@
 
 ## Experimento: Política de Gestão de Projetos Padronizada
 
-🔗 Este experimento funciona melhor se for apoiado por uma formação de [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Formações/Gestão à Vista\|Gestão à Vista]]
+🔗 Este experimento funciona melhor se for apoiado por uma formação de [[Projetos/Clientes/Sicredi/Projetos/Mapa Sodexo/Formações/Gestão à Vista\|Gestão à Vista]]
 
 
 ### Descrição

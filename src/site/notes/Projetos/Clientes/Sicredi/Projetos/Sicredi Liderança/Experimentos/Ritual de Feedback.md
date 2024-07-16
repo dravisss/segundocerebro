@@ -14,7 +14,7 @@
 
 ## Experimento: Ritual de Feedback
 
-🔗 Este experimento está diretamente conectado ao experimento [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Experimentos/Política de Feedback\|Política de Feedback]] e à formação [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Formações/Feedback Estruturado\|Feedback Estruturado]].
+🔗 Este experimento está diretamente conectado ao experimento [[Projetos/Clientes/Sicredi/Projetos/Sicredi Liderança/Experimentos/Política de Feedback\|Política de Feedback]] e à formação [[Projetos/Clientes/Sicredi/Projetos/Mapa Sodexo/Formações/Feedback Estruturado\|Feedback Estruturado]].
 
 ### Descrição:
 Este experimento tem como objetivo criar um ritual de feedback bimestral ou trimestral entre as áreas e entre os indivíduos dentro das suas próprias áreas. Será criado um canvas de feedback para auxiliar o processo e as pessoas serão informadas com antecedência sobre o momento em que o feedback ocorrerá. 
